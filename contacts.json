@@ -4,27 +4,27 @@
       "lastName": "Navarro",
       "email": "testtest@tst.com",
       "favoriteColor": "Green",
-      "birdthday": "04/28/19"
+      "birthday": "04/28/19"
   },
   "contact2": {
       "firstName": "Val",
       "lastName": "Roque",
       "email": "testtest@tst.com",
       "favoriteColor": "Green",
-      "birdthday": "04/28/19"
+      "birthday": "04/28/19"
   },
   "contact3": {
       "firstName": "Luna",
       "lastName": "Navarro",
       "email": "testtest@tst.com",
       "favoriteColor": "Green",
-      "birdthday": "04/28/19"
+      "birthday": "04/28/19"
   },
   "contact4": {
       "firstName": "Winter",
       "lastName": "Navarro",
       "email": "testtest@tst.com",
       "favoriteColor": "Green",
-      "birdthday": "04/28/19"
+      "birthday": "04/28/19"
   }
 }
